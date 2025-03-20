@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+h1, h2 {
+ 	font-family: "Archivo", cursive, sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-variation-settings: "wdth" 100;
+}
+
+h2 {
+	font-size: 35px;
+	color: #e70c19;
+}
+
+header h1 {
+	color:whitesmoke;
+	font-size: 50px;
+}
+
+header img {
+	border-radius: 150px;
+	border: 20px solid #483a94;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img {
+	max-width: 100%;
+}
